@@ -1,7 +1,7 @@
 # Ciallo~, I'm 真宙✨
 
 ### 冒烤鸭真好吃（螺狮粉也好吃）:-P 
-<img src="IntelliJ IDEA/jpg/IntelliJ IDEA.jpg">
+<img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/IntelliJ%20IDEA/jpg/IntelliJ%20IDEA.jpg">
 
 ### ABOUT ME
 
